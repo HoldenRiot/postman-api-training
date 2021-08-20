@@ -1,6 +1,6 @@
 # Week 1
-## Goal
-- The goal of this session is to better understand how data moves from the Database to the UI. Data goes from the Database -> API -> Angular(Or tech stack being used) -> Web Browser -> UI
+## Objective
+- Better understand how data moves from the Database to the UI. Data goes from the Database -> API -> Angular(Or tech stack being used) -> Web Browser -> UI
 
 # Terms & Definitions
 

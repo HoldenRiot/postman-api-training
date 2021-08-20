@@ -14,7 +14,7 @@ There is one pre-requirement you should complete prior to us meeting so we can d
 ### Week 1:
 - Super high level how data moves from Database to the UI. Example: DB -> API -> Angular -> Chrome/UI. What is Angular, What is a Database, What is API. Terms and Definitions for API Development/ Technology stack/What other popular tech stacks are out there.
 ### Week 2:
-- John Lawrence will talk about the next gen technology. Very specific & why it is important. VB6/.net and New Gen. 
+- John will talk about the next gen technology. Very specific & why it is important. VB6/.net and New Gen. 
 
 ### Week 3:
 - Individual: Budling a API Workshop

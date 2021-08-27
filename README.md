@@ -11,7 +11,7 @@ There is one pre-requirement you should complete prior to us meeting so we can d
 - Verify you can login to Postman prior to the training date.
 
 # Course Agenda
-### Week 1 (Tim/Holden):
+### Week 1 (Tim/Mike):
 - Super high level how data moves from Database to the UI. Example: DB -> API -> Angular -> Chrome/UI. What is Angular, What is a Database, What is API. Terms and Definitions for API Development/ Technology stack/What other popular tech stacks are out there.
 
 ### Week 2 (John):

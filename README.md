@@ -25,3 +25,6 @@ An API and Postman Training Workshop. In this training session we will be coveri
 ### Week 7 (Holden):
 - Testing in Postman continued.
 - Running a Postman Collection via CLI and Automating a Postman Collection using Postman Monitors.
+
+### Week 8 (Holden):
+- Testing in Postman workshop continued. (If needed). 

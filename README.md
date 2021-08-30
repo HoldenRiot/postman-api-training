@@ -5,11 +5,11 @@ An API and Postman Training Workshop. In this training session we will be coveri
 ### Week 1 (Tim/Mike):
 - Super high level how data moves from Database to the UI. Example: DB -> API -> Angular -> Chrome/UI. What is Angular, What is a Database, What is API. Terms and Definitions for API Development/ Technology stack/What other popular tech stacks are out there.
 
-### Week 2 (John):
-- John will talk about the next gen technology. Very specific & why it is important. VB6/.net and New Gen. 
+### Week 2 (Matt/Tim/John?):
+- Individual: Building an API Workshop
 
-### Week 3 (Tim/John?):
-- Individual: Budling a API Workshop
+### Week 3 (John):
+- John will talk about the next gen technology. Very specific & why it is important. VB6/.net and New Gen. 
 
 ### Week 4 (Tim/John?):
 - Finish individuals building a API Workshop

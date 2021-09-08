@@ -1,8 +1,9 @@
 # Week 6
 ## Objectives
-- Better understand what API Testing is
-- Learn different terminology and what Postman is, and how to use it to test your API.
-- Learn about the POISDED API Testing Strategy, why API testing is important, the different types of API Tests
-- Learn about the Postman GUI and common Postman terms
-- Learn the Workflow for an API Request
-- Learn how we can run Postman collections
+- Building an API Workshop continued. Developers paired with Testers.
+
+## Week 6 Homework for Quality Engineers
+1. Complete the free **[API Test Automation with Postman](https://testautomationu.applitools.com/postman-tutorial/)** course found on Test Automation University. (1hr).
+- This course is an extenstion to the **[Exploring Service APIs](https://testautomationu.applitools.com/exploring-service-apis-through-test-automation/)** homework from [last week](https://github.com/HoldenRiot/postman-api-training/blob/main/Week_3.md).
+
+#### Note: There are quizzes below the videos of each course to complete.

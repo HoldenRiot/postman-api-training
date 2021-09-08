@@ -9,7 +9,7 @@ An API and Postman Training Workshop. In this training session we will be coveri
 - John will talk about the next gen technology. Very specific & why it is important. VB6/.net and New Gen. 
 
 ### Week 3 - 10/1 (Holden):
-- API Testing overview.
+- API Testing overview. Definitions & terminology.
 
 ### Week 4 - 10/15 (Matt):
 - Individual: Building an API Workshop

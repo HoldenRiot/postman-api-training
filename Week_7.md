@@ -4,3 +4,4 @@
 - Learn the Workflow for an API Request
 - Learn how we can run Postman collections
 - Running a Postman Collection via CLI and Automating a Postman Collection using Postman Monitors.
+- Testing in Postman
